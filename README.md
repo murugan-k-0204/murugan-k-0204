@@ -21,7 +21,7 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p>
-Hi, I'm Murugan, a passionate coders. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+Hi, I'm Murugan, a passionate coder and a begineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
