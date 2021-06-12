@@ -5,7 +5,7 @@
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=murugan-k-0204.murugan-k-0204)
+<!--![](https://visitor-badge.glitch.me/badge?page_id=murugan-k-0204.murugan-k-0204)-->
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
