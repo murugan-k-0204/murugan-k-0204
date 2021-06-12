@@ -12,23 +12,21 @@
   </h1>
 </div>
 <a href="https://www.linkedin.com/in/murugan-k-0204/">
-  <img align="left" alt="Murugan K's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
-
+  <img align="center" alt="Murugan K's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
+</a>
 
 
 <!--![](https://visitor-badge.glitch.me/badge?page_id=murugan-k-0204.murugan-k-0204)-->
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<br />
-
-Hi, I'm [Murugan](https://murugan-k-0204.me/), a passionate coders. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+<p>
+Hi, I'm Murugan, a passionate coders. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
- 
-  
+  </p>
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
