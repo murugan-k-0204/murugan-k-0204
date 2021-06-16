@@ -1,4 +1,5 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>  <img src="https://komarev.com/ghpvc/?username=murugan-k-0204&label=Profile%20views&color=0e75b6&style=flat" alt="murugan-k-0204" /> </p>
+
 <div>
   <h1 align="left">
     <img src="https://100-days-of-code.s3-us-west-1.amazonaws.com/Readme/100DocLogo.gif" height="60px" style="vertical-align: middle; display: inline;" alt="Logo"/>
@@ -37,8 +38,10 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <!--END_SECTION:waka-->
 
 📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=murugan-k-0204&show_icons=true&theme=dracula" alt="murugan-k-0204" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murugan-k-0204&layout=compact)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murugan-k-0204&show_icons=true&locale=en&layout=compact" alt="murugan-k-0204" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murugan-k-0204&show_icons=true&locale=en" alt="murugan-k-0204" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murugan-k-0204" alt="murugan-k-0204" /></p>
