@@ -1,17 +1,6 @@
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>  <img src="https://komarev.com/ghpvc/?username=murugan-k-0204&label=Profile%20views&color=0e75b6&style=flat" alt="murugan-k-0204" /> </p>
 
-<div>
-  <h1 align="left">
-    <img src="https://100-days-of-code.s3-us-west-1.amazonaws.com/Readme/100DocLogo.gif" height="60px" style="vertical-align: middle; display: inline;" alt="Logo"/>
-    <a href="https://www.100daysofcode.com">
-    <img
-        src="https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com"
-    />
-</a>
-    &nbsp
-    
-  </h1>
-</div>
+
 <a href="https://www.linkedin.com/in/murugan-k-0204/">
   <img align="center" alt="Murugan K's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
 </a>
